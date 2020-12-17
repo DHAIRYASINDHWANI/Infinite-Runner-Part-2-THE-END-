@@ -1,1 +1,2 @@
-# Infinite-Runner-Part-2-THE-END-
+#InfinityRunnerGame
+Infinity Runner Game created using Viaual Studio Code
